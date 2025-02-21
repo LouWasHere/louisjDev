@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Louis J. Bishop - Portfolio</title>
+    <title>Louis J. Bishop - Portfolio</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome on Louis J. Bishop - Portfolio</description>
+    <description>Recent content on Louis J. Bishop - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>© Louis Bishop 2025 - Powered by Hugo</copyright><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title></title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -20,7 +21,7 @@
     </item>
     
     <item>
-      <title>Projects</title>
+      <title></title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

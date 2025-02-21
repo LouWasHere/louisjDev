@@ -1,38 +1,49 @@
 baseurl = "https://louisj.dev/"
 languageCode = "en-us"
 title = "Louis J Bishop Portfolio"
-theme = "terminal"
+theme = "hugo-theme-terminal"
 pagination.pagerSize = 5
 
 [markup.goldmark.renderer]
   unsafe = true
 
 [params]
-  contentTypeName = "posts"
+  contentTypeName = "content"
   showMenuItems = 2
   fullWidthTheme = false
   centerTheme = true
 
 [languages]
   [languages.en]
+    languageName = "English"
     title = "Louis J. Bishop - Portfolio"
-    subtitle = "A simple, retro theme for Hugo"
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
+    copyright = "© Louis Bishop 2025 - Powered by Hugo"
 
-    [languages.en.params.logo]
-      logoText = "Louis J. Bishop - Portfolio"
-      logoHomeLink = "/"
+    [languages.en.params]
+      subtitle = "Louis' Portfolio Website"
+      owner = "Louis Bishop"
+      keywords = ""
+      
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+      minuteReadingTime = "min read"
+      words = "words"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About & Contact"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "projects"
-        name = "Projects"
-        url = "/projects"
+      [languages.en.params.logo]
+        logoText = "Louis J. Bishop - Portfolio"
+        logoHomeLink = "/"
+
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+            identifier = "about"
+            name = "About & Contact"
+            url = "/about"
+        [[languages.en.menu.main]]
+            identifier = "projects"
+            name = "Projects"
+            url = "/projects"
