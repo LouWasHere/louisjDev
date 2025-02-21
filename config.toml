@@ -1,5 +1,6 @@
-baseurl = "https://example.com/"
+baseurl = "https://louisj.dev/"
 languageCode = "en-us"
+title = "Louis J Bishop Portfolio
 theme = "hugo-theme-terminal"
 pagination.pagerSize = 5
 
