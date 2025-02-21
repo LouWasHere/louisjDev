@@ -10,12 +10,12 @@ pagination.pagerSize = 5
 [params]
   contentTypeName = "posts"
   showMenuItems = 2
-  fullWidthTheme = true
-  centerTheme = false
+  fullWidthTheme = false
+  centerTheme = true
 
 [languages]
   [languages.en]
-    title = "Terminal"
+    title = "Louis J. Bishop - Portfolio"
     subtitle = "A simple, retro theme for Hugo"
     keywords = ""
     copyright = ""
@@ -24,15 +24,15 @@ pagination.pagerSize = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Louis J. Bishop - Portfolio"
       logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
-        name = "About"
+        name = "About & Contact"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects"

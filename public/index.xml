@@ -1,50 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>Welcome on Louis J. Bishop - Portfolio</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content in Welcome on Louis J. Bishop - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 21 Feb 2025 16:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to My Portfolio</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Fri, 21 Feb 2025 16:00:00 +0000</pubDate>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Welcome to my portfolio website! Here, you will find information about my projects, skills, and experiences.&lt;/p&gt;
-&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
+&lt;p&gt;I am a passionate developer with experience in various programming languages and frameworks. I enjoy solving complex problems and building innovative solutions.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
 &lt;p&gt;I am a passionate developer with experience in various programming languages and frameworks. I enjoy solving complex problems and building innovative solutions.&lt;/p&gt;
-&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+&lt;p&gt;Here are some of the projects I have worked on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Project 1&lt;/strong&gt;: A brief description of the project and the technologies used.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project 2&lt;/strong&gt;: A brief description of the project and the technologies used.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project 3&lt;/strong&gt;: A brief description of the project and the technologies used.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
 &lt;p&gt;Here are some of the projects I have worked on:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Project 1&lt;/strong&gt;: A brief description of the project and the technologies used.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Project 2&lt;/strong&gt;: A brief description of the project and the technologies used.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Project 3&lt;/strong&gt;: A brief description of the project and the technologies used.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
-&lt;p&gt;I have expertise in the following areas:&lt;/p&gt;</description>
-      <content>&lt;p&gt;Welcome to my portfolio website! Here, you will find information about my projects, skills, and experiences.&lt;/p&gt;
-&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
-&lt;p&gt;I am a passionate developer with experience in various programming languages and frameworks. I enjoy solving complex problems and building innovative solutions.&lt;/p&gt;
-&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
-&lt;p&gt;Here are some of the projects I have worked on:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Project 1&lt;/strong&gt;: A brief description of the project and the technologies used.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Project 2&lt;/strong&gt;: A brief description of the project and the technologies used.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Project 3&lt;/strong&gt;: A brief description of the project and the technologies used.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
-&lt;p&gt;I have expertise in the following areas:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Programming languages: Python, JavaScript, etc.&lt;/li&gt;
-&lt;li&gt;Frameworks: React, Django, etc.&lt;/li&gt;
-&lt;li&gt;Tools: Git, Docker, etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
-&lt;p&gt;Feel free to reach out to me via &lt;a href=&#34;mailto:your-email@example.com&#34;&gt;email&lt;/a&gt; or connect with me on &lt;a href=&#34;https://www.linkedin.com/in/your-profile&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Thank you for visiting my portfolio website. I look forward to connecting with you!&lt;/p&gt;
 </content>
     </item>
     
