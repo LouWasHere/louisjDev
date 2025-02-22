@@ -1,6 +1,6 @@
 baseurl = "https://louisj.dev/"
 languageCode = "en-us"
-title = "Louis J Bishop Portfolio"
+title = "Louis Bishop"
 theme = "hugo-theme-terminal"
 pagination.pagerSize = 5
 
@@ -16,7 +16,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Louis J. Bishop - Portfolio"
+    title = "Louis Bishop"
     copyright = "© Louis Bishop 2025 - Powered by Hugo"
 
     [languages.en.params]
@@ -35,7 +35,7 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Louis J. Bishop - Portfolio"
+        logoText = "Louis Bishop"
         logoHomeLink = "/"
 
       [languages.en.menu]
