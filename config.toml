@@ -8,7 +8,7 @@ pagination.pagerSize = 5
   unsafe = true
 
 [params]
-  contentTypeName = "content"
+  contentTypeName = "posts"
   showMenuItems = 2
   fullWidthTheme = false
   centerTheme = true
